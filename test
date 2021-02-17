@@ -1,0 +1,14 @@
+</head>
+             <body>
+                     <header><h1>Curso de HTML - teste ( foto de BH)
+                     </h1></header>
+                     <section>
+                     <nav></nav>
+                     </section>
+                      <img  src="cidade.jpg" title=
+                     "Cidade de Belo Horizonte" height= 
+                      "50%" width ="50%">
+                      </section>
+                      <footer></footer>
+             </body>
+    </html>
